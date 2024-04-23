@@ -25,4 +25,4 @@ To view the website locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/food-ordering-website.git
+   git clone https://github.com/Ishaan1103/Food_oredring-website.git
